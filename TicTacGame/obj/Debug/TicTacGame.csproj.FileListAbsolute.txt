@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\VCsharp\adv programing\TicTacGame\TicTacGame\bin\Debug\TicTacGame.exe.config
+C:\Users\DELL\Desktop\VCsharp\adv programing\TicTacGame\TicTacGame\obj\Debug\TicTacGame.Form1.resources
+C:\Users\DELL\Desktop\VCsharp\adv programing\TicTacGame\TicTacGame\obj\Debug\TicTacGame.Properties.Resources.resources
+C:\Users\DELL\Desktop\VCsharp\adv programing\TicTacGame\TicTacGame\obj\Debug\TicTacGame.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\VCsharp\adv programing\TicTacGame\TicTacGame\bin\Debug\TicTacGame.exe
+C:\Users\DELL\Desktop\VCsharp\adv programing\TicTacGame\TicTacGame\bin\Debug\TicTacGame.pdb
+C:\Users\DELL\Desktop\VCsharp\adv programing\TicTacGame\TicTacGame\obj\Debug\TicTacGame.exe
+C:\Users\DELL\Desktop\VCsharp\adv programing\TicTacGame\TicTacGame\obj\Debug\TicTacGame.pdb
+C:\Users\DELL\Desktop\VCsharp\adv programing\TicTacGame\TicTacGame\obj\Debug\TicTacGame.Form2.resources
+C:\Users\DELL\Desktop\VCsharp\adv programing\TicTacGame\TicTacGame\obj\Debug\TicTacGame.csprojResolveAssemblyReference.cache
